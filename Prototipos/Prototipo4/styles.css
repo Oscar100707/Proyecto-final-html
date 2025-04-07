@@ -9,14 +9,12 @@ body {
 .Prototipo-4 {
     width: 800px;
     margin-top: 70px;
-    box-shadow: 3px 7px 81px -10px rgba(0,0,0,0.75);
+    box-shadow: 3px 7px 81px -10px rgba(148, 109, 109, 0.75);
     padding: 30px;
-    padding-top: 50px;
 }
 
 .Prototipo-4 > div {
     display: flex;
-    margin-bottom: 50px;
     gap: 82px;
 }
 
