@@ -6,37 +6,37 @@ body {
     font-family: sans-serif;
 }
 
-.carta-5 {
+.Prototipo-5 {
     margin-top: 70px;
     max-width: 830px;
     height: 730px;
-    box-shadow: 3px 7px 81px -10px rgba(0,0,0,0.75);
+    box-shadow: 3px 7px 81px -10px rgba(168, 127, 127, 0.75);
     display: flex;
     flex-direction: column;
     padding: 40px;
 }
 
-.carta-5__primera-parte {
+.Prototipo-5__primera-parte {
     display: flex;
     justify-content: center;
     gap: 25px;
 }
 
-.carta-5__primera-parte div {
+.Prototipo-5__primera-parte div {
     display: flex;
     flex-direction: column;
     align-items: start;
     margin-top: 10px;
 }
 
-.carta-5__primera-parte h2 {
+.Prototipo-5__primera-parte h2 {
     font-size: 2rem;
     color: #333;
     line-height: 50px;
     margin-bottom: 0;
 }
 
-.carta-5__primera-parte button {
+.Prototipo-5__primera-parte button {
     border-radius: 10px;
     border: none;
     background-color: #333;
@@ -44,27 +44,27 @@ body {
     padding: 10px 25px ;
 }
 
-.carta-5__primera-parte p {
+.Prototipo-5__primera-parte p {
     color: #555;
     line-height: 22px;
 }
 
-.carta-5__primera-parte img {
+.Prototipo-5__primera-parte img {
     height: 300px;
 }
 
-.carta-5__segunda-parte {
+.Prototipo-5__segunda-parte {
     display: flex;
     justify-content: center;
     gap: 25px;
     margin-top: 60px;
 }
 
-.carta-5 img {
+.Prototipo-5 img {
     border-radius: 10px;
 }
 
-.carta-5__numero {
+.Prototipo-5__numero {
     color: #bbb;
     font-size: 25px;
     font-weight: 500;
