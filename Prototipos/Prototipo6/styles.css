@@ -101,21 +101,21 @@ body {
     background-image: linear-gradient(to bottom right,#091f1c, 10%, transparent);
 }
 
-.trozo-contenido {
+.bajar-contenido {
     width: 190px;
 }
 
-.trozo-contenido img {
+.bajar-contenido img {
     width: 20px;
 }
 
-.trozo-contenido h3 {
+.bajar-contenido h3 {
     margin-top: 0;
     margin-bottom: 0;
     font-weight: 500;
 }
 
-.trozo-contenido p {
+.bajar-contenido p {
     font-size: 14px;
     margin-top: 5px;
 }
