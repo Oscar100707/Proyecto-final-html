@@ -13,7 +13,6 @@ body {
 .carta-7 {
     width: 1030px;
     height: 720px;
-    box-shadow: 3px 7px 81px -10px rgba(0,0,0,0.75);
     padding: 70px;
     color: #333;
     display: flex;

@@ -14,7 +14,6 @@ body {
 .carta-6 {
     width: 990px;
     height: 650px;
-    box-shadow: 3px 7px 81px -10px rgba(0,0,0,0.75);
     padding: 50px;
     background-image: url(imagenes/espacio.jpg), linear-gradient(to top, #043E49, 50%, #09212C);
     background-repeat: no-repeat;
