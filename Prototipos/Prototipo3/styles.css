@@ -10,7 +10,7 @@ body {
     justify-content: left;
     align-items: left;
 }
-.container {
+.contenido {
     width: 100%;
     padding: 50px 0;
 }
@@ -18,19 +18,19 @@ h1 {
     font-size: 32px;
     font-weight: bold;
 }
-.subtitle {
+.subtitulos {
     display: flex;
     justify-content: space-between;
     margin: 20px 0;
     color: gray;
 }
-.cards {
+.cartas {
     display: flex;
     justify-content: space-between;
     gap: 20px;
     
 }
-.card {
+.carta {
     background-color: white;
     border-radius: 10px;
     overflow: hidden;
@@ -38,13 +38,13 @@ h1 {
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
     position: relative;
 }
-.card img {
+.carta img {
     width: 100%;
     height: auto;
     object-fit: cover;
     display: block;
 }
-.card-content {
+.carta-contenido {
     position: absolute;
     bottom: 0;
     left: 0;
@@ -53,10 +53,10 @@ h1 {
     padding: 15px;
     text-align: left;
 }
-.card-title {
+.carta-titulo {
     font-weight: bold;
 }
-.card-text {
+.carta-texto {
     font-size: 14px;
     color: gray;
 }
