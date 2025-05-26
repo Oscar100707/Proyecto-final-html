@@ -1,0 +1,113 @@
+body {
+    display: flex;
+    box-sizing: border-box;
+    align-items: center;
+    flex-direction: column;
+    font-family: Lato;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
+
+.carta-7 {
+    width: 1030px;
+    height: 720px;
+    box-shadow: 3px 7px 81px -10px rgba(0,0,0,0.75);
+    padding: 70px;
+    color: #333;
+    display: flex;
+}
+
+.arriba {
+    width: 400px;
+}
+
+.arriba h2 {
+    font-size: 55px;
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+.arriba p {
+    font-size: 20px;
+    line-height: 1.4;
+}
+
+.arriba button {
+    border: none;
+    color: #fff;
+    background-color: #333;
+    padding: 14px 40px;
+    border-radius: 30px;
+    font-size: 17px;
+    margin-bottom: 30px;
+}
+
+.circulos {
+    display: flex;
+    position: relative;
+    right: 45px;
+    width: 450px;
+    scale: .8;
+    gap: 25px;
+}
+
+.circulos img {
+    position: relative;
+}
+
+.abajo {
+    display: flex;
+    padding: 10px 20px;
+    gap: 10px;
+    padding-left: 30px;
+    padding-right: 0;
+    border-radius: 20px;
+    border: 1px solid #333;
+    width: 370px;
+    margin-top: 30px;
+}
+
+.abajo .trozo-abajo {
+    width: 220px;
+}
+
+.abajo .trozo-abajo h3 {
+    margin: 5px 0;
+    margin-top: 10px;
+    color: #333;
+}
+
+.abajo .trozo-abajo p {
+    color: #333;
+    font-weight: 300;
+    font-size: 15px;
+}
+
+.derecha {
+    display: flex;
+    position: relative;
+    right: -35px;
+}
+
+.derecha img {
+    width: 300px;
+    height: 350px;
+    object-fit: cover;
+    border-radius: 30px;
+    border: 1px solid #333;
+    scale: .8;
+    margin-bottom: -35px;
+}
+
+.derecha-parte1 {
+    position: relative;
+    top: -10px;
+}
+
+.derecha-parte2 {
+    margin-top: 60px;
+    right: 25px;
+    position: relative;
+}
